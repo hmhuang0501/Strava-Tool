@@ -26,9 +26,8 @@ Hopefully it could be someday extended to have some advanced features like Golde
 ## Features (__just name a few, not completed yet__)
 - Fixing and uploading workout (Ride, Virtual Ride, Run, Hike, etc.) activity files with the help of batch script automation using Task Scheduler (Windows)
 
-https://user-images.githubusercontent.com/43208378/126695209-51a2c492-9b8d-4668-808d-801e813fe502.mp4
-
-https://user-images.githubusercontent.com/43208378/126695221-0dcaaa7f-4b31-4093-ad5f-548504a6f335.mp4
+![ezgif-7-6f339b420a6e](https://user-images.githubusercontent.com/43208378/131325226-d3685830-39bb-4f36-93c3-73b400c462b6.gif)
+![ezgif-7-6f528b36532f](https://user-images.githubusercontent.com/43208378/131325228-142ed161-1abc-40b1-a80a-902d48f83b69.gif)
 
 - Analyzing workout data using Pandas package  
   e.g.,
